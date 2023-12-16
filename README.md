@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-Salut! I'm [udopl], a French enthusiast with a keen interest in technology. 
+Salut! I'm udopl, a French enthusiast with a keen interest in technology. 
 
 ## About Me
 
